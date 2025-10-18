@@ -26,29 +26,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...🤔
 - 😄 Pronouns: ...🤔
 - ⚡ Fun fact: ...🤔
-#### My Skills
-<picture>
-  <source
-    srcset="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali,bash,vim,vscode,html,css,nginx,mysql,docker,cloudflare,ps,pr,ai,py,pycharm,git,github,md,wordpress&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali,bash,vim,vscode,html,css,nginx,mysql,docker,cloudflare,ps,pr,ai,py,pycharm,git,github,md,wordpress&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali,bash,vim,vscode,html,css,nginx,mysql,docker,cloudflare,ps,pr,ai,py,pycharm,git,github,md,wordpress&theme=light" />
-</picture>
 
+#### My Skills
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali,bash,vim,vscode,html,css,nginx,mysql,docker,cloudflare,ps,pr,ai,py,pycharm,git,github,md,wordpress&theme=light)](#)
 
 #### In Progress (might take a while <s>ETA: ~1B years</s>)
-<picture>
-  <source
-    srcset="https://skillicons.dev/icons?i=vue,vuetify,tailwind,react,materialui,bootstrap,svg,php,webstorm,js,ts,nodejs,npm,vite,flutter,dart,electron,tauri,rust,androidstudio,idea,kotlin,java,maven,visualstudio,cpp,raspberrypi,regex,sqlite,ae&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://skillicons.dev/icons?i=vue,vuetify,tailwind,react,materialui,bootstrap,svg,php,webstorm,js,ts,nodejs,npm,vite,flutter,dart,electron,tauri,rust,androidstudio,idea,kotlin,java,maven,visualstudio,cpp,raspberrypi,regex,sqlite,ae&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://skillicons.dev/icons?i=vue,vuetify,tailwind,react,materialui,bootstrap,svg,php,webstorm,js,ts,nodejs,npm,vite,flutter,dart,electron,tauri,rust,androidstudio,idea,kotlin,java,maven,visualstudio,cpp,raspberrypi,regex,sqlite,ae&theme=light" />
-</picture>
+[![My Skills](https://skillicons.dev/icons?i=vue,vuetify,tailwind,react,materialui,bootstrap,svg,php,webstorm,js,ts,nodejs,npm,vite,flutter,dart,electron,tauri,rust,androidstudio,idea,kotlin,java,maven,visualstudio,cpp,raspberrypi,regex,sqlite,ae&theme=light)](#)
