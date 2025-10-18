@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![visitors](http://count.getloli.com/@xzhgithub?theme=booru-lewd&padding=4)
+[![visitors](http://count.getloli.com/@xzhgithub?theme=booru-lewd&padding=4)](#)
 <!--
 **XZH2024/XZH2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
